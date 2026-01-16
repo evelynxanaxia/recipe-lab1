@@ -1,0 +1,7 @@
+1. /workspaces/daytwostuff #firstone
+2. You should not include the virtual environment in your repository because anyone cloning it would be using their own.
+3. /workspaces/daytwostuff , second one and they are the exact same 
+4. The extension menu shows Data Wrangler and who created it. It also has a blue check by it's name showing it is verified. It also starts to name the functions of the extension.
+5. After reviewing the capabilities of Data Wrangler, I would use it to clean and prepare data for analysis. As well as to visualize data quickly and easily. These are the most useful elements of the extension.
+6. The versiob of plotly installed is 6.5.1
+7. We use a requirements.txt file to list all the libaries their versions for a project. This allows anyone who wants to run the project to install the exact same packages and versions, ensuring compatibility. This would be reduce the chances of errors due to version mismatches. It also makes it easier to manage and share.
